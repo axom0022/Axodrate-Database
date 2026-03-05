@@ -1,3 +1,4 @@
 {
-  "autocensor": true
+  "autocensor": true,
+  "welcome": true
 }
