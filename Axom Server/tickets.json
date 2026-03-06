@@ -1,1 +1,14 @@
-{}
+{
+  "1479495298169704561": {
+    "user_id": 1226528945604792363,
+    "ticket_number": 1,
+    "type": "support",
+    "title": "Hi, this is a test",
+    "reason": "Moderators, don't mind me I'm just showcasing",
+    "created_at": "2026-03-06T15:06:08.578975+00:00",
+    "status": "open",
+    "claimed_by": null,
+    "closed_by": null,
+    "closed_at": null
+  }
+}
