@@ -19,6 +19,12 @@
       "reason": "Censored word: bitch",
       "warner": "Auto-Censor",
       "timestamp": "2026-03-06 15:00:41"
+    },
+    {
+      "id": 4,
+      "reason": "Censored word: fuck",
+      "warner": "Auto-Censor",
+      "timestamp": "2026-03-06 15:00:45"
     }
   ]
 }
