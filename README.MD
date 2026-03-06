@@ -1,3 +1,7 @@
+Hello Users, This is not a leak! this is my bot backend 😂
+yes, GitHub is the best method for backend fr fr. 
+the repo is public so the bot becomes smoother. 
+
 ## Commands
 
 ### Games
@@ -96,3 +100,8 @@
 - `/slap` - Slap another user
 - `/hug` - Hug another user
 - `/kiss` - Kiss another user
+
+### INFO
+- Axodrate bot is a free bot made by Axom.
+- the bot will become better than most bots as more features and more commands will come.! 
+- the bot stays 19-22/24
