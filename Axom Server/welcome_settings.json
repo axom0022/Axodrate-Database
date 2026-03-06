@@ -1,3 +1,5 @@
 {
-  "channel_id": 1453693792400969728
+  "channel_id": 1453693792400969728,
+  "title": "{user} has joined the server",
+  "description": "Welcome {user} to {server} !!, you are the {member} member!!"
 }
